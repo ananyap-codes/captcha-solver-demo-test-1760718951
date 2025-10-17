@@ -1,13 +1,15 @@
 # Auto-Generated Web Application
 
 ## 📋 Project Description
-Create a simple captcha solver that displays an image from URL parameter ?url= and shows placeholder text 'CAPTCHA SOLVED' after 10 seconds
+Update the captcha solver to include a refresh button and display a countdown timer while processing. Make it more colorful and add animations.
 
 ## ✅ Requirements Fulfilled
 - Repo has MIT license
 - README.md is professional
-- Page displays captcha URL passed at ?url=...
+- Page has refresh button
+- Page shows countdown timer
 - Page displays solved captcha text within 15 seconds
+- Animations are smooth
 
 ## 🚀 Deployment
 This application is automatically deployed to GitHub Pages and is accessible via the repository's Pages URL.
@@ -42,4 +44,4 @@ Generated using AIPIPE API for intelligent code creation.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
-*Generated automatically on 2025-10-17 at 22:05:52 using AIPIPE API*
+*Generated automatically on 2025-10-17 at 22:06:40 using AIPIPE API*
